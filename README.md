@@ -1,5 +1,5 @@
 # Robocup
-The material was developed as part of a European Erasmus+ project called RoboCup – Safety in Robotics. Se robocup.website for the full documentation.
+The material was developed as part of a European Erasmus+ project called RoboCup – Safety in Robotics. Se [robocup.website](http://robocup.website) for the full documentation.
 
 [Overview_of_3D_models](3DModels/Overview_of_3D_models.pdf)
 
@@ -8,3 +8,5 @@ The material was developed as part of a European Erasmus+ project called RoboCup
 * [Piece_table_holder.stl](3DModels/Piece_table_holder.stl)
 * [Work_piece.stl](3DModels/Work_piece.stl)
 * [Work_piece_with_support.stl](3DModels/Work_piece_with_support.stl)
+
+[Creative Commons zero 1.0 Universal (CC0 1.0) Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)

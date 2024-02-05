@@ -9,7 +9,10 @@ The material was developed as part of a European Erasmus+ project called RoboCup
 * [Work_piece.stl](3DModels/Work_piece.stl)
 * [Work_piece_with_support.stl](3DModels/Work_piece_with_support.stl)
 
-  External:
+License:
+[Creative Commons zero 1.0 Universal (CC0 1.0) Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
+
+### External links:
 * [3D printed Drop in M5 T-nuts (using a press-fit metal nut)](https://www.thingiverse.com/thing:3663001)
 
-[Creative Commons zero 1.0 Universal (CC0 1.0) Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
+
